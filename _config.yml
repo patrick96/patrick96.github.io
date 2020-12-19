@@ -7,5 +7,6 @@ github_username: patrick96
 # Build settings
 markdown: kramdown
 theme: no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
