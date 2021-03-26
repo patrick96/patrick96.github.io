@@ -1,4 +1,4 @@
-title: "Hello World!"
+title: "Patrick Ziegler"
 baseurl: ""
 url: "https://patrickziegler.ch"
 twitter_username: _patrickziegler
@@ -7,5 +7,9 @@ github_username: patrick96
 # Build settings
 markdown: kramdown
 remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light"
+
 plugins:
   - jekyll-feed
