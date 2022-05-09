@@ -3,6 +3,8 @@ entries:
     entries:
       - title: about
         url: about
+      - title: my GPG key
+        url: gpg
       - title: github
         url: https://github.com/patrick96/
       - title: twitter
