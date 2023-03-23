@@ -16,3 +16,5 @@ entries:
     entries:
       - title: polybar
         url: https://github.com/polybar/polybar
+      - title: "Master's thesis:<br /><em>WebAssembly Code Generation from Java Bytecode</em>"
+        url: https://www.research-collection.ethz.ch/handle/20.500.11850/603662
